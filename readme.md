@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
@@ -12,22 +13,22 @@
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
 - [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clipart](#vectors--clip-art)
+- [Vectors & Clip Art](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [CSS Animations](#css-Animations)
-- [Javascript Animations](#javascript-animation-libraries)
+- [CSS Animations](#css-animations)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Svelte UI Libraries](#svelte-ui)
+- [React UI](#react-ui)
+- [Vue UI](#vue-ui)
+- [Angular UI](#angular-ui)
+- [Svelte UI](#svelte-ui)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
+- [Design Inspiration](#design-inspiration)
+- [Image Compression](#image-compression)
 - [Others](#others)
 
 ## UI Graphics
@@ -513,6 +514,7 @@
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
 | [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |
+| [Soft Components](https://soft-components-docs.web.app/)| A set of framework agnostic web components based on neumorphic design. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
